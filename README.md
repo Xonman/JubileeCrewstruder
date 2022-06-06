@@ -96,5 +96,13 @@ Ideally a stiff material that doesn't suffer creep should be used. This part is 
 - Shove the Bowden tube down the hole on top of the centre plate. You should have a small amount still protruding which will fit into the bottom of the Orbiter.
 - Place the Orbiter on top in the only orientation it fits and then tighten down with 2x M3 10mm bolts.
 
+## Tool boards
+Included in this repo are mounting places for both 36mm and 42mm style CAN toolboards. Due to the connector orientation of the 36mm (SHT-36 et al) boards either the heater wires or the CAN plug will fowl on the top of the centre carriage when tools are picked up. The 36 mount raises the toolboard up so that the heater wires can safely clear the centre carriage.
+The 42mm mount fits either a HUVUD or SHT-42 style mounted sideways (with CAN plug on one side and heater terminal on the other). The board mounting holes are sized to fit heatset inserts so you can tighten down the board nice and snugly. The bottom of the adapter should line up with the bottom of the Orbiter motor, with the top protruding a few mm.
 
+## Umbilical tidier
+These are sized for some large metal cable-ties I found locally. Use 5 of them to keep your umbilicals tight, tidy and pleasing on the eyes.
+
+## Wire post
+The wiring post accepts an "M10" bowden coupling as well as the above-mentioned cable tie, and includes a channel to securely hold some 22 guage wires in place.
 
