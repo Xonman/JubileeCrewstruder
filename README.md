@@ -12,6 +12,10 @@ This project is an effort to make a printhead which has good cooling from all an
 - Space for a CAN toolboard (not a Duet3 1LC)
 - Easy on the eyes
 
+## Known issues
+- The front plate is a torture test and almost always experiences some failed perimeters around the opening for the 5015. The bridge for the internal ducts are not square, requiring turning corners in mid air.
+- The wire channel for the hotend fan is too tight, and on the wrong par. Ideally it should be part of the front plate so precision placement isn't required during assembly.
+
 ## Parts list
 - 1x Dragon hotend (no groove-mount adapter)
 - 1x 2510 hotend fan (a Slice Engineering Mosquito hotend fan works well)
