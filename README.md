@@ -1,4 +1,5 @@
-# JubileeCrewstruder
+# Crewstruder printhead
+![Rendering of a Crewstruder](https://github.com/Xonman/JubileeCrewstruder/raw/main/images/Crewstruder%20v25%20cropped.png)
 An afterburner-inspired printhead for the Jubilee3d Toolchanger.
 The BMG tool for the Jubilee is a little utilitarian to look at. The Baby Bullet is a big step forward but when equipped with both 5015s is too wide to fit 5 tools.
 This project is an effort to make a printhead which has good cooling from all angles, fits 5 tools and is at least a bit interesting to look at.
